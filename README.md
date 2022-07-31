@@ -1,5 +1,3 @@
-# Telco-Customer-Churn-Analysis
-Exploring Maven Analytics data 
 ## Revenue and Customer Churn Analysis
 ### Goal: 
 The client wants to improve customer retention by identifying high-value customers and churn risks. This project was able to explore this issue by using data to answer important questions and provide recommendations based on the insights. Before using the data for analysis, the dataset was cleaned.
